@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: qcmservice
+  cloud:
+    config:
+      uri: https://qcm-configserver.onrender.com
+      label: main
