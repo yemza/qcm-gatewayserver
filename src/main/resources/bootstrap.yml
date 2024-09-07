@@ -1,6 +1,6 @@
 spring:
   application:
-    name: 
+    name: gatewayserver
   cloud:
     config:
       uri: https://qcm-configserver.onrender.com
